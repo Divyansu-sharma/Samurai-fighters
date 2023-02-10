@@ -30,7 +30,7 @@ framesMax:6
 
 const player=new Fighter({
     position:{
-    x:0,
+    x:225,
     y:0
 },
 velocity:{
@@ -89,7 +89,7 @@ sprites:{
 
 const enemy=new Fighter({
     position:{
-    x:400,
+    x:750,
     y:100
 },
 velocity:{
